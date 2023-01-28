@@ -1,0 +1,16 @@
+plugin.tx_lms3bigbluebutton {
+
+	view {
+		templateRootPaths.0 = {$plugin.tx_lms3bigbluebutton.view.templateRootPath}
+		partialRootPaths.0 = {$plugin.tx_lms3bigbluebutton.view.partialRootPath}
+		layoutRootPaths.0 = {$plugin.tx_lms3bigbluebutton.view.layoutRootPath}
+	}
+
+    settings {
+        storagePid = {$plugin.tx_lms3bigbluebutton.settings.storagePid}
+        bbbUrl = {$plugin.tx_lms3bigbluebutton.settings.bbbUrl}
+        bbbSecret = {$plugin.tx_lms3bigbluebutton.settings.bbbSecret}
+        bbbMeetingIDPrefix = {$plugin.tx_lms3bigbluebutton.settings.bbbMeetingIDPrefix}
+    }
+
+}

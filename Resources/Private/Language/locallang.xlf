@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en">
+        <body>
+            <trans-unit id="flexform.heading">
+                <source>BigBlueButton</source>
+            </trans-unit>
+            <trans-unit id="conference_is_ready">
+                <source>This conference room is ready. You can join the session now.</source>
+            </trans-unit>
+            <trans-unit id="join_session">
+                <source>Join Session</source>
+            </trans-unit>
+            <trans-unit id="login_to_join_session">
+                <source>Please login to join the session</source>
+            </trans-unit>
+            <trans-unit id="tx_lms3bigbluebutton_domain_model_meeting">
+                <source>LMS3 BigBlueButton Meeting</source>
+            </trans-unit>
+            <trans-unit id="general">
+                <source>General</source>
+            </trans-unit>
+            <trans-unit id="meeting.meetingId">
+                <source>Meeting ID</source>
+            </trans-unit>
+            <trans-unit id="meeting.moderatorPassword">
+                <source>Moderator Password</source>
+            </trans-unit>
+            <trans-unit id="meeting.attendeePassword">
+                <source>Attendee Password</source>
+            </trans-unit>
+            <trans-unit id="meeting.name">
+                <source>Name</source>
+            </trans-unit>
+            <trans-unit id="meeting.moderatorUserGroups">
+                <source>Moderator user groups</source>
+            </trans-unit>
+            <trans-unit id="meeting.welcome">
+                <source>Welcome message</source>
+            </trans-unit>
+            <trans-unit id="meeting.maxParticipants">
+                <source>Max Participants</source>
+            </trans-unit>
+            <trans-unit id="meeting.logoutUrl">
+                <source>Logout Url</source>
+            </trans-unit>
+            <trans-unit id="meeting.moderatorOnlyMessage">
+                <source>Moderator Only Message</source>
+            </trans-unit>
+            <trans-unit id="meeting.webcamsOnlyForModerator">
+                <source>Webcams Only For Moderator</source>
+            </trans-unit>
+            <trans-unit id="meeting.muteOnStart">
+                <source>Mute On Start</source>
+            </trans-unit>
+            <trans-unit id="meeting.allowModsToUnmuteUsers">
+                <source>Allow Mods To Unmute Users</source>
+            </trans-unit>
+            <trans-unit id="meeting.logo">
+                <source>Logo</source>
+            </trans-unit>
+            <trans-unit id="meeting.duration">
+                <source>Duration</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

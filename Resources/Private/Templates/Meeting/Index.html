@@ -1,0 +1,22 @@
+<f:layout name="Default" />
+
+<f:section name="Main">
+
+    <f:security.ifAuthenticated>
+        <f:then>
+            <div>
+                <p><f:translate key="conference_ready" /></p>
+            </div>
+            <div>
+                <f:form action="join" method="post" target="_blank">
+                    <f:form.hidden name="meetingId" value="{meeting.uid}" />
+                    <f:form.submit value="{f:translate(key:'join_session')}" class="button button-default"/>
+                </f:form>
+            </div>
+        </f:then>
+        <f:else>
+            <p><f:translate key="login_to_join_session" /></p>
+        </f:else>
+    </f:security.ifAuthenticated>
+
+</f:section>

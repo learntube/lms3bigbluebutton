@@ -1,0 +1,25 @@
+{
+    "name": "lms3/lms3bigbluebutton",
+    "description": "This plugin integrates BigBlueButton into TYPO3.",
+    "type": "typo3-cms-extension",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Sagar Desai",
+            "email": "sagardesai1990@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LMS3\\Lms3bigbluebutton\\": "Classes"
+        }
+    },
+    "require": {
+        "bigbluebutton/bigbluebutton-api-php": "^2.1.4"
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "lms3bigbluebutton"
+        }
+    }
+}

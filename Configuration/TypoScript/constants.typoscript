@@ -1,0 +1,25 @@
+plugin.tx_lms3bigbluebutton {
+
+	view {
+		# cat=plugin.tx_lms3bigbluebutton/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:lms3bigbluebutton/Resources/Private/Templates/
+
+		# cat=plugin.tx_lms3bigbluebutton/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:lms3bigbluebutton/Resources/Private/Partials/
+
+		# cat=plugin.tx_lms3bigbluebutton/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:lms3bigbluebutton/Resources/Private/Layouts/
+	}
+
+	settings {
+	    # cat=plugin.tx_lms3bigbluebutton//a; type=int; label=Storage page id
+        storagePid =
+
+        # cat=plugin.tx_lms3bigbluebutton//a; type=string; label=BBB API URL
+        bbbUrl =
+
+        # cat=plugin.tx_lms3bigbluebutton//a; type=string; label=BBB API Secret
+        bbbSecret =
+	}
+
+}

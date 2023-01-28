@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" target-language="de">
+        <body>
+            <trans-unit id="flexform.heading">
+                <source>BigBlueButton</source>
+                <target>BigBlueButton</target>
+            </trans-unit>
+            <trans-unit id="conference_is_ready">
+                <source>This conference room is ready. You can join the session now.</source>
+                <target>Der Konferenzraum ist bereit. Sie können jetzt an der Sitzung teilnehmen.</target>
+            </trans-unit>
+            <trans-unit id="duration">
+                <source>Duration</source>
+                <target>Länge</target>
+            </trans-unit>
+            <trans-unit id="join_session">
+                <source>Join Session</source>
+                <target>Meeting jetzt beitreten!</target>
+            </trans-unit>
+            <trans-unit id="login_to_join_session">
+                <source>Please login to join the session</source>
+                <target>Bitte melden Sie sich an, um an der Sitzung teilzunehmen.</target>
+            </trans-unit>
+            <trans-unit id="tx_lms3bigbluebutton_domain_model_meeting">
+                <source>LMS3 BigBlueButton Meeting</source>
+                <target>LMS3 BigBlueButton Meeting</target>
+            </trans-unit>
+            <trans-unit id="general">
+                <source>General</source>
+                <target>General</target>
+            </trans-unit>
+            <trans-unit id="meeting.meetingId">
+                <source>Meeting ID</source>
+                <target>Meeting ID</target>
+            </trans-unit>
+            <trans-unit id="meeting.moderatorPassword">
+                <source>Moderator Password</source>
+                <target>Moderator Password</target>
+            </trans-unit>
+            <trans-unit id="meeting.attendeePassword">
+                <source>Attendee Password</source>
+                <target>Attendee Password</target>
+            </trans-unit>
+            <trans-unit id="meeting.name">
+                <source>Name</source>
+                <target>Name</target>
+            </trans-unit>
+            <trans-unit id="meeting.moderatorUserGroups">
+                <source>Moderator user groups</source>
+                <target>Moderatoren user group</target>
+            </trans-unit>
+            <trans-unit id="meeting.welcome">
+                <source>Welcome message</source>
+                <target>Willkommens-Nachricht</target>
+            </trans-unit>
+            <trans-unit id="meeting.maxParticipants">
+                <source>Max Participants</source>
+                <target>Max. Anzahl an Teilnhemer:innen</target>
+            </trans-unit>
+            <trans-unit id="meeting.logoutUrl">
+                <source>Logout Url</source>
+                <target>Logout Url</target>
+            </trans-unit>
+            <trans-unit id="meeting.moderatorOnlyMessage">
+                <source>Moderator Only Message</source>
+                <target>Nachricht nur für Moderator</target>
+            </trans-unit>
+            <trans-unit id="meeting.webcamsOnlyForModerator">
+                <source>Webcams Only For Moderator</source>
+                <target>Webcams Only For Moderator</target>
+            </trans-unit>
+            <trans-unit id="meeting.muteOnStart">
+                <source>Mute On Start</source>
+                <target>Mute On Start</target>
+            </trans-unit>
+            <trans-unit id="meeting.allowModsToUnmuteUsers">
+                <source>Allow Mods To Unmute Users</source>
+                <target>Allow Mods To Unmute Users</target>
+            </trans-unit>
+            <trans-unit id="meeting.logo">
+                <source>Logo</source>
+                <target>Logo</target>
+            </trans-unit>
+            <trans-unit id="meeting.duration">
+                <source>Duration</source>
+                <target>Länge des Meetings in Min.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

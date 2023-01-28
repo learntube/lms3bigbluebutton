@@ -1,0 +1,25 @@
+<T3DataStructure>
+    <sheets>
+        <sDEF>
+            <ROOT>
+                <TCEforms>
+                    <sheetTitle>LLL:EXT:lms3bigbluebutton/Resources/Private/Language/locallang.xlf:flexform.heading</sheetTitle>
+                </TCEforms>
+                <type>array</type>
+                <el>
+                    <settings.meeting>
+                        <TCEforms>
+                            <label>Meeting</label>
+                            <config>
+                                <type>inline</type>
+                                <foreign_table>tx_lms3bigbluebutton_domain_model_meeting</foreign_table>
+                                <maxitems>1</maxitems>
+                                <minitems>1</minitems>
+                            </config>
+                        </TCEforms>
+                    </settings.meeting>
+                </el>
+            </ROOT>
+        </sDEF>
+    </sheets>
+</T3DataStructure>
